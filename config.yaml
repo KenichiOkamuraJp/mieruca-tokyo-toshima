@@ -1,0 +1,16 @@
+code: 131164
+gijiroku: data/gijiroku.csv
+giin: data/giin.csv
+iinkai: data/iinkai.csv
+years: data/years.csv
+jogai: data/exclusion.csv
+font: static/ShipporiMinchoB1-ExtraBold.ttf
+target:
+  place: 豊島区
+  start: 2003年5月
+  end: 2022年11月
+  url: http://www.kensakusystem.jp/toshima/
+developer:
+  name: 岡村健一
+  contact: https://twitter.com/Okamura_Kenichi
+  img: static/developer.png
